@@ -1,0 +1,89 @@
+{
+  "users": {
+    "kthenurseone_1125669845": {
+      "username": "kthenurseone",
+      "chat_id": 1125669845,
+      "added_at": "2025-07-04T16:01:00.855909",
+      "last_tweet_id": "1941182083550019855",
+      "active": false,
+      "stopped_at": "2025-07-05T15:27:35.191479"
+    },
+    "elonmusk_1125669845": {
+      "username": "elonmusk",
+      "chat_id": 1125669845,
+      "added_at": "2025-07-04T18:13:33.116550",
+      "last_tweet_id": "1941403289163268278",
+      "active": false,
+      "stopped_at": "2025-07-05T15:27:38.936633"
+    },
+    "trustwallet_5052286513": {
+      "username": "trustwallet",
+      "chat_id": 5052286513,
+      "added_at": "2025-07-05T15:54:08.141586",
+      "last_tweet_id": "1941467094106980610",
+      "active": true
+    }
+  },
+  "posts": {
+    "1941120193943740646_1125669845": {
+      "tweet_id": "1941120193943740646",
+      "chat_id": 1125669845,
+      "tweet_url": "https://x.com/kthenurseone/status/1941120193943740646?t=4Sii4RYcs9PMW8exxLO5Rw&s=19",
+      "added_at": "2025-07-04T16:02:48.989674",
+      "last_reply_id": "1941180601840894010",
+      "active": true
+    },
+    "1941477424530624583_5052286513": {
+      "tweet_id": "1941477424530624583",
+      "chat_id": 5052286513,
+      "tweet_url": "https://x.com/blue_footy/status/1941477424530624583?s=46",
+      "added_at": "2025-07-05T16:02:29.500505",
+      "last_reply_id": "1941484255504368027",
+      "active": false,
+      "stopped_at": "2025-07-05T16:08:31.917143"
+    }
+  },
+  "keywords": {
+    "bitcoin wallet_1125669845": {
+      "keyword": "bitcoin wallet",
+      "chat_id": 1125669845,
+      "added_at": "2025-07-04T16:05:29.036152",
+      "last_tweet_id": "1941177914034430090",
+      "active": false,
+      "stopped_at": "2025-07-04T19:51:19.516363"
+    },
+    "wallet issue_5052286513": {
+      "keyword": "wallet issue",
+      "chat_id": 5052286513,
+      "added_at": "2025-07-05T15:53:54.539090",
+      "last_tweet_id": "1941483376835428670",
+      "active": false,
+      "stopped_at": "2025-07-05T16:07:44.528780"
+    },
+    "safe wallet_5052286513": {
+      "keyword": "safe wallet",
+      "chat_id": 5052286513,
+      "added_at": "2025-07-05T16:00:11.112864",
+      "last_tweet_id": "1941486464472424912",
+      "active": true
+    },
+    "wallet address_5052286513": {
+      "keyword": "wallet address",
+      "chat_id": 5052286513,
+      "added_at": "2025-07-05T16:00:19.858332",
+      "last_tweet_id": "1941486999132873076",
+      "active": true
+    },
+    "unstake_5052286513": {
+      "keyword": "unstake",
+      "chat_id": 5052286513,
+      "added_at": "2025-07-05T16:18:53.568172",
+      "last_tweet_id": null,
+      "active": true
+    }
+  },
+  "metadata": {
+    "created": "2025-07-04T16:00:43.623274",
+    "last_updated": "2025-07-05T16:19:13.033459"
+  }
+}
